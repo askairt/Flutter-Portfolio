@@ -14,11 +14,10 @@ double getMobileMaxWidth(BuildContext context) =>
     MediaQuery.of(context).size.width * .8;
 
 class AppConstants {
-  static const linkedInUrl =
-      "https://www.linkedin.com/in/agnel-selvan-328421192/";
-  static const instagramUrl = "https://www.instagram.com/_agnel.selvan_/";
-  static const githubUrl = "https://github.com/AgnelSelvan";
-  static const mediumUrl = "https://medium.com/@agnelselvan";
+  static const linkedInUrl = "https://www.linkedin.com/dtriaksa/";
+  static const instagramUrl = "https://www.instagram.com/askairt/";
+  static const githubUrl = "https://github.com/askairt";
+  static const mediumUrl = "https://medium.com/@askairt";
 
   static const _assets = "assets/";
   static const _outputs = "outputs/";
