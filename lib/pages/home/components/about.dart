@@ -58,7 +58,7 @@ class _AboutSectionState extends State<AboutSection> {
                         height: 25.0,
                       ),
                       Text(
-                        "I'm Agnel Selvan, A Flutter and iOS Developer and Technical Blog Writer",
+                        "Halo, Saya Danar Pramudya Triaksa, Flutter dan Android app developer",
                         style: GoogleFonts.josefinSans(
                           fontWeight: FontWeight.bold,
                           height: 1.3,
@@ -69,7 +69,7 @@ class _AboutSectionState extends State<AboutSection> {
                         height: 10.0,
                       ),
                       const Text(
-                        "I have done my Computer Science graduation at Xavier's Institute of Engineering on 2021. I have been developing Mobile Apps for more than 1 years now. I have worked as a Team and as an Indivual in various organization and launched the apps in Playstore as well as in Appstore. In my free time I use to write Technical Blog in Medium. Always love to learn new technologies and to succeed in an environment of growth and excellence and earn a job which provides me job satisfaction and self-development and help me achieve personal as well as organisational goals.",
+                        "Saya lulusan D4 Komputerisasi Akuntansi tahun 2009 yang sekarang bekerja di sebuah distributor medical equipment sebagai Administration & Logistic Staff. Meskipun dalam pekerjaan saya sering berkutat dengan SAP dan Microsoft Excel, di waktu luang saya suka manfaatkan untuk mengikuti beberapa bootcamp mengenai Kotlin, Android app development, Flutter, Web App dan Data Science",
                         style: TextStyle(
                           color: kCaptionColor,
                           height: 1.5,
@@ -80,7 +80,7 @@ class _AboutSectionState extends State<AboutSection> {
                         height: 20.0,
                       ),
                       const Text(
-                        "Technology I have worked with",
+                        "Teknologi yang saya gunakan",
                         style: TextStyle(
                           fontSize: 14,
                           fontWeight: FontWeight.bold,

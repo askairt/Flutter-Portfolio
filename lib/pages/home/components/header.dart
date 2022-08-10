@@ -29,7 +29,7 @@ class HeaderLogo extends StatelessWidget {
               text: TextSpan(
                 children: [
                   TextSpan(
-                    text: "A ",
+                    text: "Hi,",
                     style: GoogleFonts.josefinSans(
                       fontSize: 26.0,
                       fontWeight: FontWeight.bold,
@@ -40,7 +40,7 @@ class HeaderLogo extends StatelessWidget {
                     ),
                   ),
                   TextSpan(
-                    text: "Dev",
+                    text: "Selamat Datang !",
                     style: GoogleFonts.josefinSans(
                       color: kPrimaryColor,
                       fontSize: 26.0,

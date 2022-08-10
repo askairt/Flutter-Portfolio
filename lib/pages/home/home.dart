@@ -84,7 +84,7 @@ class _HomeState extends ConsumerState<Home>
                       height: 5,
                     ),
                     Text(
-                      "Here are some of my Previous Work :)",
+                      "Beberapa proyek yang pernah saya kerjakan",
                       style: GoogleFonts.josefinSans(
                         color: Colors.grey[400],
                         fontSize: 14,

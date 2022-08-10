@@ -21,7 +21,7 @@ List<CarouselItemModel> carouselItems(double carouselContainerHeight) =>
                   mainAxisSize: MainAxisSize.min,
                   children: [
                     Text(
-                      "Mobile Application Developer",
+                      "Flutter Developer",
                       style: GoogleFonts.josefinSans(
                         color: kPrimaryColor,
                         fontWeight: FontWeight.w900,
@@ -33,7 +33,7 @@ List<CarouselItemModel> carouselItems(double carouselContainerHeight) =>
                       height: 18.0,
                     ),
                     Text(
-                      "Agnel Selvan".toUpperCase(),
+                      "Danar P Triaksa".toUpperCase(),
                       style: GoogleFonts.josefinSans(
                         fontSize: 40.0,
                         fontWeight: FontWeight.w900,
@@ -66,7 +66,7 @@ List<CarouselItemModel> carouselItems(double carouselContainerHeight) =>
                           width: 2,
                         ),
                         Text(
-                          "Mumbai",
+                          "Yogyakarta",
                           style: TextStyle(
                             color: kCaptionColor,
                             fontSize: 15.0,
@@ -94,7 +94,7 @@ List<CarouselItemModel> carouselItems(double carouselContainerHeight) =>
                             Utilty.openUrl(AppConstants.linkedInUrl);
                           },
                           child: Text(
-                            "Let's Talk",
+                            "Ngobrol Yuk",
                             style: TextStyle(
                               color: Colors.grey[800],
                               fontSize: 13.0,

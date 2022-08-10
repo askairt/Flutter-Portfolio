@@ -22,7 +22,7 @@ class CustomThemeProvider extends ChangeNotifier {
 
 class MyThemes {
   static final lightTheme = ThemeData(
-    scaffoldBackgroundColor: Colors.white,
+    scaffoldBackgroundColor: Color.fromARGB(206, 240, 168, 36),
     colorScheme: const ColorScheme.light(),
     primaryColor: const Color(0xFFFFD800),
     iconTheme: const IconThemeData(color: kPrimaryColor),
