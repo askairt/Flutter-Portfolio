@@ -22,11 +22,11 @@ class CustomThemeProvider extends ChangeNotifier {
 
 class MyThemes {
   static final lightTheme = ThemeData(
-    scaffoldBackgroundColor: Color.fromARGB(206, 240, 168, 36),
+    scaffoldBackgroundColor: Color.fromARGB(255, 250, 255, 255),
     colorScheme: const ColorScheme.light(),
-    primaryColor: const Color(0xFFFFD800),
+    primaryColor: Color.fromARGB(255, 245, 127, 17),
     iconTheme: const IconThemeData(color: kPrimaryColor),
-    primarySwatch: Colors.yellow,
+    primarySwatch: Colors.orange,
     textButtonTheme: TextButtonThemeData(
         style: ButtonStyle(
             foregroundColor: MaterialStateProperty.all(kBackgroundColor))),
